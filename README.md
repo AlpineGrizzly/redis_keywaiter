@@ -1,4 +1,5 @@
 # redis_keywaiter
+Python implementation of https://github.com/Fullaxx/waitforkey
 Waits for a key to exist in a target Redis database
 
 ## Usage
